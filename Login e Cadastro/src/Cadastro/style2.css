@@ -1,0 +1,159 @@
+.containerCadastro {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EEEEEE;
+}
+
+.cardCadastro {
+    display: flex;
+    width: 30vw;
+    height: 90vh;
+    flex-direction: column;
+    border-radius: 40px;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFFFFF;
+    color: black;
+}
+
+.topoEsquerdoCadastro {
+    display: flex;
+    justify-content: space-between;
+    width: 360px;
+    align-items: center;
+    font-size: small;
+}
+
+.listaSenha ul {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 300px;
+}
+
+.cardCadastroMeio scan {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardInputs {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardInputs input {
+    width: 300px;
+    height: 30px;
+    color: black;
+    border:none;
+    padding-left: 10px;
+    background-color:  #EEEEEE;
+    outline: none;
+}
+
+.input1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 40px; 
+    padding: 0 35px 0 35px; 
+    border-radius: 10px;
+    background-color:  #EEEEEE;
+}
+
+.input2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 40px; 
+    padding: 0 35px 0 35px; 
+    border-radius: 10px;
+    background-color:  #EEEEEE;
+}
+
+.input3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 40px; 
+    padding: 0 35px 0 35px; 
+    border-radius: 10px;
+    background-color: #EEEEEE;
+}
+
+.input4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 40px;
+    padding-left: 400px;
+    padding: 0 35px 0 35px; 
+    border-radius: 10px;
+    background-color: #EEEEEE;
+}
+
+.CadastroFim {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+
+.divBtnFace {
+    width: 20px;
+    height: 20px;
+    color: black;
+    border: solid 2px white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divBtnG {
+    width: 20px;
+    height: 20px;
+    color: black;
+    border: solid 2px white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divCadastroBtn {
+    display: flex;
+    justify-content: space-around;
+    border: solid 3px white;
+    border-radius: 50px;
+    align-items: center;
+    height: 45px;
+    width: 130px;
+    color: black;
+    background-color: #EEEEEE;
+}
+
+.divCadastroBtnIcon {
+    width: 20px;
+    height: 20px;
+    border: solid #EEEEEE;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
